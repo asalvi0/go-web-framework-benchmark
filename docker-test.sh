@@ -3,7 +3,7 @@
 chmod +x *.sh
 
 ./test-latency.sh
-# ./test-pipelining.sh
+./test-pipelining.sh
 cd testresults
 ./plot.sh
 cd ..
