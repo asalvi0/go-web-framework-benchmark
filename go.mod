@@ -1,6 +1,6 @@
 module github.com/smallnest/go-web-framework-benchmark
 
-go 1.17
+go 1.18
 
 require (
 	clevergo.tech/clevergo v0.6.0
@@ -15,7 +15,7 @@ require (
 	github.com/dimfeld/httptreemux v5.0.1+incompatible
 	github.com/dinever/golf v0.3.0
 	github.com/emicklei/go-restful v2.15.0+incompatible
-	github.com/fasthttp/router v1.4.8
+	github.com/fasthttp/router v1.4.9
 	github.com/gin-gonic/gin v1.7.7
 	github.com/go-chi/chi/v5 v5.0.7
 	github.com/go-martini/martini v0.0.0-20170121215854-22fa46961aab
